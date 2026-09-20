@@ -1,12 +1,12 @@
 # KLHB-FED-26-15-11-ATM-Transaction-Simulator
 
 Supervisor Name : Rakesh
-Team member : Laxmi kanth Reddy 
-Roll Number : 2620090061
-Team member : Sai Harsha
-Roll Number : 2620090143
 Team Number : Meghana
 Roll Number : 2620090142
+Team member : Sai Harsha
+Roll Number : 2620090143
+Team member : Laxmi kanth Reddy 
+Roll Number : 2620090061
 
 ## 1. Abstract
 
