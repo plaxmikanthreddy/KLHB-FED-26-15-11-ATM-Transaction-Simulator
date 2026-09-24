@@ -1,11 +1,11 @@
 
 **ATM Transaction Simulator**
 
-Team Number : Meghana
+Team Member : Meghana
 Roll Number :2620090142
-Team member :Sai Harsha
+Team Member :Sai Harsha
 Roll Number : 2620090143
-Team Leader : Laxmi kanth Reddy 
+Team Member : Laxmi kanth Reddy 
 Roll Number : 2620090061
 Supervisor Name : Rakesh
 
